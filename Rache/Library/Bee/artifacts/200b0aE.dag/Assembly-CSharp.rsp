@@ -377,6 +377,8 @@
 "Assets/script/Exit_Panel.cs"
 "Assets/script/Menu_Bt.cs"
 "Assets/script/Sensor_Bandit.cs"
+"Assets/script/SoundManager.cs"
+"Assets/script/Start_P.cs"
 -langversion:9.0
 
 /deterministic
