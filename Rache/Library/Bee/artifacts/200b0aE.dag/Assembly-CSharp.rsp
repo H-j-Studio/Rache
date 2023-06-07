@@ -376,6 +376,7 @@
 "Assets/script/Bandit.cs"
 "Assets/script/Exit_Panel.cs"
 "Assets/script/Menu_Bt.cs"
+"Assets/script/Option_P.cs"
 "Assets/script/Sensor_Bandit.cs"
 "Assets/script/SoundManager.cs"
 "Assets/script/Start_P.cs"
