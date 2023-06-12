@@ -5,16 +5,26 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
       ticks: 638216940040000000
     m_Hash: 1679106406
+=======
+      ticks: 638217402124247032
+    m_Hash: 2531585693
+>>>>>>> Stashed changes
   m_LockFileStatus:
     m_FilePath: /Users/hyunseojung/Documents/Githubb/Rache/Rache/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
       ticks: 638216940040000000
     m_Hash: 2134680356
+=======
+      ticks: 638217402124252131
+    m_Hash: 3938024468
+>>>>>>> Stashed changes
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -900,6 +910,7 @@ m_ResolvedPackages:
     - 1.8.0
     - 1.8.1
     - 1.8.2
+    - 1.8.3
     compatible:
     - 1.6.4
     - 1.6.5
@@ -913,6 +924,7 @@ m_ResolvedPackages:
     - 1.8.0
     - 1.8.1
     - 1.8.2
+    - 1.8.3
     verified: 1.6.5
   dependencies:
   - name: com.unity.modules.director
@@ -3765,6 +3777,7 @@ m_ResolvedPackages:
     - 1.8.1
     - 1.8.2
     - 1.9.0
+    - 1.10.1
     compatible:
     - 1.4.2
     - 1.4.3
@@ -3775,6 +3788,7 @@ m_ResolvedPackages:
     - 1.8.1
     - 1.8.2
     - 1.9.0
+    - 1.10.1
     verified: 1.4.3
   dependencies:
   - name: com.unity.modules.unitywebrequest

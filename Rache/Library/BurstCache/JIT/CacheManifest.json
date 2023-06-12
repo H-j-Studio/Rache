@@ -3,7 +3,11 @@
   "Assemblies": [
     {
       "FullName": "Unity.2D.Animation.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+<<<<<<< Updated upstream
       "LastWriteTime": "2023-06-07T14:03:44.0540222Z"
+=======
+      "LastWriteTime": "2023-06-07T13:10:12.1769767Z"
+>>>>>>> Stashed changes
     },
     {
       "FullName": "mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
@@ -15,11 +19,19 @@
     },
     {
       "FullName": "Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+<<<<<<< Updated upstream
       "LastWriteTime": "2023-06-07T14:03:44.0700476Z"
     },
     {
       "FullName": "Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
       "LastWriteTime": "2023-06-07T14:03:44.0639245Z"
+=======
+      "LastWriteTime": "2023-06-07T13:10:12.263171Z"
+    },
+    {
+      "FullName": "Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2023-06-07T13:10:12.2426734Z"
+>>>>>>> Stashed changes
     },
     {
       "FullName": "netstandard, Version=2.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51",
@@ -31,6 +43,7 @@
     },
     {
       "FullName": "Unity.2D.Common.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+<<<<<<< Updated upstream
       "LastWriteTime": "2023-06-07T14:03:44.0555764Z"
     },
     {
@@ -44,6 +57,21 @@
     {
       "FullName": "mscorlib, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
       "LastWriteTime": "2022-07-29T13:01:15Z"
+=======
+      "LastWriteTime": "2023-06-07T13:10:12.1885897Z"
+    },
+    {
+      "FullName": "Unity.2D.SpriteShape.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2023-06-07T13:10:12.220682Z"
+    },
+    {
+      "FullName": "mscorlib, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2022-07-29T13:09:22Z"
+    },
+    {
+      "FullName": "UnityEngine.SpriteShapeModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2022-07-29T13:29:36Z"
+>>>>>>> Stashed changes
     }
   ],
   "Functions": [
@@ -127,7 +155,10 @@
       "LinkName": "CDCA4A5193BE5947",
       "AssemblyDependencyIndices": [
         4,
+<<<<<<< Updated upstream
         10,
+=======
+>>>>>>> Stashed changes
         5,
         1
       ]
