@@ -54,14 +54,28 @@ AssetModificationProcessor
 Sysroot
 UnityEditor
 LinuxStandalone
+<<<<<<< HEAD:Rache/Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.dll.mvfrm
 ProcessEvent
 Unity
 MPE
+=======
+ChannelClient
+Unity
+MPE
+ChannelClientScope
+ChannelService
+ChannelScope
+EventDataSerialization
+EventService
+RoleProviderAttribute
+ProcessEvent
+>>>>>>> develop:Rache/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm
 ProcessLevel
 ProcessState
 RoleCapability
 ChannelInfo
 ChannelClientInfo
+<<<<<<< HEAD:Rache/Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.dll.mvfrm
 ChannelService
 ChannelClient
 ProcessService
@@ -70,19 +84,34 @@ EventService
 RoleProviderAttribute
 ChannelClientScope
 ChannelScope
+=======
+ProcessService
+>>>>>>> develop:Rache/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm
 TerrainToolShortcutContext
 Experimental
 TerrainAPI
 TerrainInspectorUtility
+<<<<<<< HEAD:Rache/Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.dll.mvfrm
 TerrainPaintUtilityEditor
+=======
+>>>>>>> develop:Rache/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm
 BrushGUIEditFlags
 RepaintFlags
 IOnPaint
 IOnSceneGUI
 IOnInspectorGUI
 TerrainPaintTool<>
+<<<<<<< HEAD:Rache/Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.dll.mvfrm
 NavMeshVisualizationSettings
 NavMeshBuilder
+=======
+TerrainPaintUtilityEditor
+NavMeshBuilder
+NavMeshVisualizationSettings
+PrefabStage
+SceneManagement
+PrefabStageUtility
+>>>>>>> develop:Rache/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm
 CollectImportedDependenciesAttribute
 AssetImporters
 AssetImportContext
@@ -91,11 +120,18 @@ TextureGenerationOutput
 SourceTextureInformation
 TextureGenerationSettings
 TextureGenerator
+<<<<<<< HEAD:Rache/Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.dll.mvfrm
+=======
+FBXMaterialDescriptionPreprocessor
+SketchupMaterialDescriptionPreprocessor
+ThreeDSMaterialDescriptionPreprocessor
+>>>>>>> develop:Rache/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm
 AssetImporterEditor
 AssetImporterEditorPostProcessAsset
 ScriptedImporterEditor
 ScriptedImporter
 ScriptedImporterAttribute
+<<<<<<< HEAD:Rache/Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.dll.mvfrm
 ThreeDSMaterialDescriptionPreprocessor
 FBXMaterialDescriptionPreprocessor
 SketchupMaterialDescriptionPreprocessor
@@ -115,10 +151,26 @@ OffMeshLinkData
 OffMeshLink
 NavMeshObstacleShape
 NavMeshObstacle
+=======
+NavMeshPathStatus
+UnityEngine
+NavMeshPath
+ObstacleAvoidanceType
+NavMeshAgent
+NavMeshObstacleShape
+NavMeshObstacle
+OffMeshLinkType
+OffMeshLinkData
+OffMeshLink
+NavMeshHit
+NavMeshTriangulation
+NavMesh
+>>>>>>> develop:Rache/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm
 AvatarMaskBodyPart
 UnityEditor
 Animations
 AvatarMask
+<<<<<<< HEAD:Rache/Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.dll.mvfrm
 IAnimationJobPlayable
 UnityEngine
 Experimental
@@ -130,18 +182,35 @@ AnimationScriptPlayable
 CustomStreamPropertyType
 AnimatorJobExtensions
 AnimationHumanStream
+=======
+IAnimationJob
+UnityEngine
+Experimental
+IAnimationJobPlayable
+IAnimationWindowPreview
+AnimationHumanStream
+AnimationScriptPlayable
+AnimationStream
+>>>>>>> develop:Rache/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm
 TransformStreamHandle
 PropertyStreamHandle
 TransformSceneHandle
 PropertySceneHandle
 AnimationSceneHandleUtility
 AnimationStreamHandleUtility
+<<<<<<< HEAD:Rache/Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.dll.mvfrm
+=======
+CustomStreamPropertyType
+AnimatorJobExtensions
+MuscleHandle
+>>>>>>> develop:Rache/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm
 PixelPerfectRendering
 UnityEngine
 Experimental
 U2D
 SpriteBone
 Profiler
+<<<<<<< HEAD:Rache/Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.dll.mvfrm
 ConnectionTarget
 Networking
 PlayerConnection
@@ -156,6 +225,18 @@ CameraParameters
 PhotoCaptureFileOutputFormat
 PhotoCapture
 PhotoCaptureFrame
+=======
+PhotoCaptureFileOutputFormat
+XR
+WSA
+WebCam
+PhotoCapture
+PhotoCaptureFrame
+VideoCapture
+CapturePixelFormat
+WebCamMode
+CameraParameters
+>>>>>>> develop:Rache/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm
 PlayerLoopSystemInternal
 LowLevel
 PlayerLoopSystem
@@ -167,6 +248,13 @@ PreUpdate
 Update
 PreLateUpdate
 PostLateUpdate
+<<<<<<< HEAD:Rache/Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.dll.mvfrm
+=======
+ConnectionTarget
+Networking
+PlayerConnection
+IConnectionState
+>>>>>>> develop:Rache/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm
 VertexAttribute
 Rendering
 RenderingThreadingMode
@@ -187,9 +275,15 @@ UnityEngine
 Experimental
 TerrainAPI
 TerrainUtility
+<<<<<<< HEAD:Rache/Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.dll.mvfrm
 TerrainPaintUtility
 PaintContext
 BrushTransform
+=======
+BrushTransform
+PaintContext
+TerrainPaintUtility
+>>>>>>> develop:Rache/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm
 ProgressBar
 UnityEditor
 UIElements
